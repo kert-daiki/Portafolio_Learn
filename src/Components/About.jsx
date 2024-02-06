@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/space.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a web designer student with a passion for creating and designing user interfaces. I am currently learning about user experience and inclusive design. I am also passionate about making tech accessible to all. I am always looking for new and better ways to make tech accessible by all. I am passionate about solving problems in new creative ways to drive innovation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
